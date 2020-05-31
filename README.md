@@ -1,27 +1,25 @@
 # [Django iDashboard PRO](https://appseed.us/admin-dashboards/django-idashboard-pro)
 
-> Commercial product - **Django Dashboard** coded on top of **iDashboard PRO** crafted by **YooKits**.
+> Commercial product - **Django Dashboard** coded on top of **iDashboard PRO** crafted by **YooKits** - Features:
 
-<br />
-
-## Dashboard Features
-
+- Sample UI Kit: **iDashboard PRO** provided by **YooKits**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- UI Kit: **iDashboard PRO** provided by **YooKits**
-- **Commercial License**
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
-- [Django iDashboard PRO](https://django-idashboard-pro.appseed.us/login.html) - LIVE Demo 
+- [Django iDashboard PRO](https://django-idashboard-pro.appseed.us/) - LIVE Demo
 - [Django iDashboard PRO](https://appseed.us/admin-dashboards/django-idashboard-pro) - Official product page
+- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
-![Django iDashboard PRO - Commercial admin panel coded in Django by AppSeed.](https://raw.githubusercontent.com/app-generator/django-idashboard-pro/master/media/django-idashboard-pro-screen.png)
+![Django iDashboard PRO - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-idashboard-pro/master/media/django-idashboard-pro-screen.png)
 
 <br />
 
@@ -197,9 +195,9 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 ## Credits & Links
 
-- [Django](https://www.djangoproject.com/) - The offcial website
-- [Boilerplate Code](https://appseed.us/boilerplate-code) - Index provided by **AppSeed**
-- [Boilerplate Code](https://github.com/app-generator/boilerplate-code) - Index published on Github
+- [Django](https://www.djangoproject.com/) - The official website
+- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Index provided by **AppSeed**
+- [Django Admin Dashboards](https://github.com/app-generator/django-admin-dashboards) - Index published on Github
 
 <br />
 
